@@ -1,6 +1,9 @@
 # NoLimit Test Case 1
-
 Design pattern: DDD
+
+## Tech Stack
+- NestJS
+- MySQL
 
 ## Installation
 

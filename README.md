@@ -10,9 +10,7 @@ Design pattern: DDD
 ```sh
 git clone https://github.com/farhantk/NoLimit-BE-Intern-1.git
 cd NoLimit-BE-Intern-1 
-```
-configure your .env
-```sh
+//configure your .env
 npm install
 npm run migrate
 npm run dev
